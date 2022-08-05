@@ -1,0 +1,43 @@
+
+.bg-light-blue{
+    background: #EFF7FA;
+    height: 55px;
+    width: 100%;
+}
+.disabled-language-button{
+    background: #2a8ae1;
+}
+.border-radius-50{
+    border-radius:50px;
+}
+.fs-larger {
+    font-size: calc(1.675rem + 1.5vw) !important;
+}
+.fs-7{
+    font-size: 0.9rem !important;
+}
+.fs-8{
+    font-size: 0.8rem !important;
+}
+
+.top-10 {
+    top: 13% !important;
+}
+.top-90 {
+    top: 90% !important;
+}
+.start-30{
+    left: 30%;
+}
+.text-green {
+    color: #3FBD65;
+}
+.text-black {
+    color: #000000 !important;
+}
+.mt-2px {
+    margin-top: 2px !important;
+}
+.rotate-search-icon{
+    transform: rotate(90deg);
+}
