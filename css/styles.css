@@ -19,9 +19,12 @@
 .fs-8{
     font-size: 0.8rem !important;
 }
+.fs-9{
+    font-size: 0.7rem !important;
+}
 
 .top-15 {
-    top: 15% !important;
+    top: 14% !important;
 }
 .top-90 {
     top: 90% !important;
